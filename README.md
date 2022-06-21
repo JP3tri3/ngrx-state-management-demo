@@ -1,6 +1,6 @@
 # ngrx-state-management-demo
 
-Practice demo following Ngrx documentation guides (https://ngrx.io/guide/store)
+Practice demo following Ngrx documentation guides (https://ngrx.io/)
 
 # NgrxStateManagementDemo
 
